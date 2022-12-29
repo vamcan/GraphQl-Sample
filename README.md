@@ -1,2 +1,2 @@
 # GraphQl-Sample
-Simple DotnetCore WebApi Project With EntityFramework and GraphQl 
+Simple DotnetCore WebApi Project With GraphQl 
