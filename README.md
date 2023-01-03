@@ -1,4 +1,4 @@
-# GraphQl-Sample
+# GraphQl-Sample DotnetCore HotChocolate
 ## Overview
 
 This project is a .NET Core web API that uses the HotChocolate and HotChocolate.Data libraries to provide a GraphQL endpoint for querying movie data.
