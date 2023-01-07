@@ -11,7 +11,7 @@ Actor
 This class represents an actor in a movie and has the following properties:
 
 FirstName: the first name of the actor
-LastName: the last name of the actor
+LastName: the last name of the actor 
 Movie
 This class represents a movie and has the following properties:
 
